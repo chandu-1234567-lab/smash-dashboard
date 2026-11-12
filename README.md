@@ -7,9 +7,6 @@ Smashing, the spiritual successor to [Dashing](https://github.com/Shopify/dashin
 
 ![Smashing logo](./.github/docs/assets/screenshot.png)
 
-## Community
-
-Feel free to submit issues for bugs, new features, and enhancements in [GitHub](https://github.com/Smashing/smashing/issues). For more general questions, or help with widgets, please use the [gitter chatroom](https://gitter.im/Smashing).
 
 ## Installation
 
@@ -28,9 +25,7 @@ $ bundle
 $ smashing start
 ```
 
-[Check out our wiki](https://github.com/Smashing/smashing/wiki).
 
 Note: This is a fork of the Dashing project, which is no longer being maintained. Read about that [here](https://github.com/Shopify/dashing/issues/711).
 
-## License
-Distributed under the [MIT license](MIT-LICENSE).
+
